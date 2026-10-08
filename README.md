@@ -43,9 +43,9 @@ I am working on an analytics project using customer, transaction, web session, a
 ## Education and completed certifications
 
 - B.A. in Business Marketing — Lebanese International University, 2017
-- Digital Marketing Professional — Morgan International & Digital Marketing Institute, 2022
-- Fundamentals of Digital Marketing — Google Digital Garage, 2019
-- Google Data Analysis with Python - Coursera - 2026 https://drive.google.com/file/d/1uGauatTGwZETUTk5-xKCA_m6H59e0MfQ/view?usp=sharing [link](url)
+- Digital Marketing Professional — Morgan International & Digital Marketing Institute, 2022 Link: https://certs.digitalmarketinginstitute.com/eec7a398-3602-42e1-b0d9-b3ee4530d111#acc.GzjUCTgX
+- Google Data Analysis with Python - Coursera - 2026 Link: https://drive.google.com/file/d/1uGauatTGwZETUTk5-xKCA_m6H59e0MfQ/view?usp=sharing
+- In progress: Google Advanced Data Analytics ...
 
 ## Connect
 
