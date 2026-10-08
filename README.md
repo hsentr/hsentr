@@ -45,6 +45,7 @@ I am working on an analytics project using customer, transaction, web session, a
 - B.A. in Business Marketing — Lebanese International University, 2017
 - Digital Marketing Professional — Morgan International & Digital Marketing Institute, 2022
 - Fundamentals of Digital Marketing — Google Digital Garage, 2019
+- Google Data Analysis with Python - Coursera - 2026 https://drive.google.com/file/d/1uGauatTGwZETUTk5-xKCA_m6H59e0MfQ/view?usp=sharing [link](url)
 
 ## Connect
 
